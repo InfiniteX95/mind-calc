@@ -1,0 +1,36 @@
+body{
+  background-color: #2F2F2F;
+  color: white;
+  margin: 0;
+  text-align: center;
+  font-family: Consolas;
+}
+
+.header{
+  padding: 20px;
+  background-color: #1DC12D;
+  text-align: center;
+}
+
+.score {
+  position: absolute;
+  padding-left: 20px;
+}
+
+.input{
+  width: 20%;
+  background-color: #606060;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.inputh1{
+  font-size: 100px;
+  size:100%;
+  overflow-wrap: break-word;
+  padding: 30px;
+}
