@@ -1,9 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code&display=swap');
+
 body{
   background-color: #2F2F2F;
   color: white;
   margin: 0;
   text-align: center;
-  font-family: Consolas;
+  font-family: 'Fira Code', monospace;
 }
 
 .header{
